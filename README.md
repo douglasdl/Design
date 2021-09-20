@@ -1,7 +1,7 @@
 # Design
 Inspiration
 
-[Figma](https://www.figma.com/)
-[Dribbble](https://dribbble.com/)
+- [Figma](https://www.figma.com/)
+- [Dribbble](https://dribbble.com/)
 
-[Create React App](https://create-react-app.dev/)
+- [Create React App](https://create-react-app.dev/)
